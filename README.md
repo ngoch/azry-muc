@@ -1,6 +1,6 @@
 # azry-muc
 
-> azry-material-ui-custom-components
+> AzRy Material-UI Components
 
 [![NPM](https://img.shields.io/npm/v/azry-muc.svg)](https://www.npmjs.com/package/azry-muc) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
