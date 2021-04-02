@@ -15,12 +15,12 @@ npm install --save azry-muc
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'azry-muc'
+import ExampleComponent from 'azry-muc'
 import 'azry-muc/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <ExampleComponent />
   }
 }
 ```
